@@ -1,0 +1,250 @@
+# Translation of Themes - Twenty Seventeen in Indonesian
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-04 04:41:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "Twenty Seventeen menjadikan situsmu hidup dengan tajuk video dan gambar tajuk yang menawan. Dengan fokus untuk situs bisnis, dia menyediakan beberapa bagian di halaman depan situs sebagaimana widget, menu navigasi dan sosial, sebuah logo dan banyak lagi. Personalisasi grid asimetrisnya dengan skema warna tersuai dan tampilkan konten multimedia Anda dengan post format. Tema bawaan kami di tahun 2017 bekerja dengan hebat dalam berbagai bahasa, untuk berbagai kemampuan dan di berbagai perangkat."
+
+#. Theme Name of the theme
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: functions.php:340
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Tambahkan widget di isni agar muncul di sidebar pada artikel blog anda dan halaman arsip."
+
+#: functions.php:181
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "Kopi"
+
+#: functions.php:177
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "Roti lapis"
+
+#: functions.php:173
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "Espresso"
+
+#: single.php:34
+msgid "Next Post"
+msgstr "Pos Selanjutnya"
+
+#: index.php:27
+msgid "Posts"
+msgstr "Pos"
+
+#: inc/template-tags.php:89
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/template-tags.php:85
+msgid "Categories"
+msgstr "Kategori"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post date.
+#: inc/template-tags.php:52
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Diposkan pada</span> %s"
+
+#. translators: %s: Post author.
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "oleh %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Harap tentukan sebuah nama file ikon SVG"
+
+#. translators: %d: The front page section number.
+#: inc/customizer.php:142
+msgid "Front Page Section %d Content"
+msgstr "Konten Halaman Depan %d "
+
+#: inc/customizer.php:112 inc/customizer.php:171
+msgid "Two Column"
+msgstr "Dua Kolom"
+
+#: inc/customizer.php:111 inc/customizer.php:170
+msgid "One Column"
+msgstr "Satu Kolom"
+
+#: inc/customizer.php:106
+msgid "Page Layout"
+msgstr "Layout Halaman"
+
+#: inc/customizer.php:89
+msgid "Theme Options"
+msgstr "Opsi Tema"
+
+#: inc/customizer.php:62
+msgid "Light"
+msgstr "Terang"
+
+#: inc/customizer.php:60
+msgid "Color Scheme"
+msgstr "Skema Warna"
+
+#: functions.php:362
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:350
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:290
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "nyala"
+
+#: functions.php:64 functions.php:205
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "Menu Atas"
+
+#: comments.php:62
+msgid "Reply"
+msgstr "Balas"
+
+#: template-parts/post/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: search.php:59
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tapi tak ada yang cocok dengan terma pencarian Anda. Silakan coba lgi dengan kata kunci berbeda."
+
+#: template-parts/post/content-none.php:17 search.php:26
+msgid "Nothing Found"
+msgstr "Tak ada apapun"
+
+#: single.php:33
+msgid "Previous Post"
+msgstr "Pos Sebelumnya"
+
+#: comments.php:71 single.php:33
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: comments.php:72 single.php:34
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Pencarian untuk:"
+
+#. translators: %s: Post title.
+#: functions.php:392 template-parts/post/content-gallery.php:71
+#: template-parts/post/content-video.php:83
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-audio.php:84 template-parts/post/content.php:57
+#: template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lanjutkan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:63
+msgid "Dark"
+msgstr "Gelap"
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:40 inc/back-compat.php:54 inc/back-compat.php:73
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Seventeen membutuhkan WordPress versi 4.7. Anda saat ini menggunakan  versi %s. Perbaharui WordPress Anda dan coba lagi."
+
+#: template-parts/post/content-gallery.php:78
+#: template-parts/post/content-video.php:90
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-audio.php:91 template-parts/post/content.php:64
+#: template-parts/page/content-page.php:26
+#: template-parts/page/content-front-page.php:48
+msgid "Pages:"
+msgstr "Laman:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#: functions.php:65 functions.php:216
+msgid "Social Links Menu"
+msgstr "Menu Tautan Sosial"
+
+#. translators: %s: WordPress
+#: template-parts/footer/site-info.php:21
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga ditenagai oleh %s"
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr "Menu Tautan Sosial di Footer"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: archive.php:51 index.php:55 search.php:52
+msgid "Page"
+msgstr "Laman"
+
+#: archive.php:50 index.php:54 search.php:51
+msgid "Next page"
+msgstr "Laman selanjutnya"
+
+#: archive.php:49 index.php:53 search.php:50
+msgid "Previous page"
+msgstr "Laman sebelumnya"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sepertinya tidak ditemukan apapun di sini. Mungkin coba pencarian?"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "Tim WordPress"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://id.wordpress.org/themes/twentyseventeen/"
+
+#. Author URI of the theme
+#: template-parts/footer/site-info.php:18
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
